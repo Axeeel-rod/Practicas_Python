@@ -27,9 +27,6 @@ for _ in range (3) :
         if contraseña1 == contraseña2 :
              print("Contraseña correcta")
              exit()
-        else:
-             contraseña1 != contraseña2 
-             print()
 
 
  
